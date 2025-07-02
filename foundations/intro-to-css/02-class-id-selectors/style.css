@@ -1,0 +1,19 @@
+.odd{
+    background-color: pink;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#one{
+    color: blue;
+    font-size: 36px;
+}
+
+.upgrade{
+    font-size: 24px;
+}
+
+#two{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
